@@ -30,7 +30,6 @@ This project was developed as part of the 4-week AICTE Internship with Vodafone 
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.10+
-* 
 * **Data Processing:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Environment:** Google Colab / Jupyter Notebook
